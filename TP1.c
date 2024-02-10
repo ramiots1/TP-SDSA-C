@@ -6,7 +6,7 @@
 
 int main() {
     bool q1 = false, q2 = false;
-    char CardType = 'Z';
+    char CardType;
     int CardNum, ch, eof = 0;
     do
     {
